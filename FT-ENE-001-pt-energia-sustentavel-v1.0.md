@@ -1085,7 +1085,7 @@ class EnergyTransitionScenarios:
 
     def _simulate_pathway(self, params, constraints, objectives):
         """Simula caminho de transição"""
-        years = range(2024, self.target_year + 1)
+        years = range(2025, self.target_year + 1)
         energy_mix = self.current_mix.copy()
 
         pathway_data = []
