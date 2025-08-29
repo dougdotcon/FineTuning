@@ -181,9 +181,9 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 **Douglas** - *Arquiteto e Desenvolvedor do Projeto*
 
 ### 📧 Contato
-- **Email**: [seu-email@exemplo.com]
-- **LinkedIn**: [seu-perfil]
-- **GitHub**: [seu-usuario]
+- **Email**: [dougdotcon@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/dougdotcon/]
+- **GitHub**: [https://github.com/dougdotcon]
 
 ### 🙏 Agradecimentos
 - Comunidade acadêmica pelas referências técnicas
